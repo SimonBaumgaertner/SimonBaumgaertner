@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/wamas-sbaumga/wamas-sbaumga/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?tab=readme-ov-file)
 <h1 align="center">Hello there 👋 I'm Simon Baumgärtner</h1>
-<h3 align="center">Computer science student and passionate Programmer</h3>
+<h3 align="center">Computer science student and passionate programmer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
