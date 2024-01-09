@@ -2,7 +2,7 @@
 <h1 align="center">Hello there 👋 I'm Simon Baumgärtner</h1>
 <h3 align="center">Computer science student and passionate Programmer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+# <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 📫 How to reach me **simon.baumgaertner@protonmail.com**
 
